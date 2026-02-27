@@ -5,7 +5,6 @@
 
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.21858)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)]()
 [![Code License](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![Data License](https://img.shields.io/badge/Data-CC%20BY--NC--SA%204.0-green.svg)]()
 
