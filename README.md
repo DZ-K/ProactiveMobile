@@ -14,8 +14,8 @@
 
 ## 📢 News
 
-- **[2026.02]** 🎉 ProactiveMobile accepted to **CVPR 2026**. 
 - **[2026.03]** 🔥 Code, dataset, and function pool released.
+- **[2026.02]** 🎉 ProactiveMobile accepted to **CVPR 2026**. 
 
 ---
 
